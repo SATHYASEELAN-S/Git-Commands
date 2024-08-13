@@ -13,6 +13,7 @@
   <li><a href="#git-init">git init</a></li>
   <li><a href="#git-log">git log</a></li>
   <li><a href="#git-merge">git merge</a></li>
+  <li><a href="#git-remote">git remote</a></li>
   <li><a href="#git-pull">git pull</a></li>
   <li><a href="#git-push">git push</a></li>
   <li><a href="#git-revert">git revert</a></li>
@@ -65,6 +66,17 @@
 <h2 id="git-merge">git merge</h2>
 <p>Merges changes in the active branch into another branch.</p>
 <pre><code>git merge &lt;branch_name&gt;</code></pre>
+
+
+<h2 id="git-remote">git remote</h2>
+<p>A command to manage a set of tracked repositories.</p>
+<pre><code>git remote add upstream &lt;https://github.com/original/repo.git&gt; </code></pre>
+
+<h2 id="git-remote-v">git remote -v</h2>
+
+<p>Allows to view the remotes associated with the local repository</p>
+<pre><code>git remote -v</code></pre>
+
 
 <h2 id="git-pull">git pull</h2>
 <p>Transfers changes from the remote repository to your local repository and merges them into a branch.</p>
