@@ -14,6 +14,7 @@
   <li><a href="#git-log">git log</a></li>
   <li><a href="#git-merge">git merge</a></li>
   <li><a href="#git-remote">git remote</a></li>
+  <li><a href="#git-remote-v">git remote -v</a></li>
   <li><a href="#git-pull">git pull</a></li>
   <li><a href="#git-push">git push</a></li>
   <li><a href="#git-revert">git revert</a></li>
