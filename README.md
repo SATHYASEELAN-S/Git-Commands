@@ -31,6 +31,10 @@
 <pre><code>git add .</code></pre>
 
 <h2 id="git-branch">git branch</h2>
+
+<p>View Existing Branches.</p>
+<pre><code>git branch </code></pre>
+
 <p>Allows you to create an isolated environment within the repository to make changes.</p>
 <pre><code>git branch &lt;new_branch&gt;</code></pre>
 
